@@ -1,0 +1,13 @@
+# Arquivos de dados do usuário
+dados.json
+
+# Cache do Python
+__pycache__/
+
+# Arquivos de ambiente virtual (boa prática para o futuro)
+venv/
+.venv/
+
+# Pastas de configuração de IDEs
+.idea/
+.vscode/
